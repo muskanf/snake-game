@@ -20,9 +20,7 @@ For this project, I used the DoublyLinkedList data structure implemented in home
 I used a function to verify that my DoublyLinkedList works.
 
 ## The Game
--I thought about what classes to create and what data they should have.
--I represented the world as a grid and set the x and y scale accordingly.
--I used the following starting code for the main part of my program:
+-I thought about what classes to create and what data they should have and represented the world as a grid and set the x and y scale accordingly. I also used the following starting code for the main part of my program:
         limit = 20 # number of frames to allow to pass before snake moves
         timer = 0  # timer to keep track of number of frames that passed
         while(True):
